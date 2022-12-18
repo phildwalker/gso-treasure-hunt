@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "main landing"
+      href: index.html
+    - text: "first page"
+      href: page1.html
+    - text: "second page"
+      href: page2.html
