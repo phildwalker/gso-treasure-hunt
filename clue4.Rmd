@@ -15,13 +15,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# Location = "\_\_" + "\_\_"
 
-# Clue
+## Clue
 
-First word: The second part of a rhyming name device that helps you remove pet waste.
+Location = "\_\_" + "\_\_" (one word)
 
-Second word: The second part of a name for a seasonal holiday drink that is made with embryonic chickens (if that's your thing).
+First part: The second part of a rhyming name device that helps you remove pet waste.
+
+Second part: The second part of a name for a seasonal holiday drink that is made with embryonic chickens (if that's your thing).
 
 
 

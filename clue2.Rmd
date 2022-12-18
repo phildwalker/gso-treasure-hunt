@@ -15,11 +15,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# Clue:
+## Clue:
 Biden's favorite form of transportation is made up of __many of these__, but we hear that the "ghost" version never caught up with wiley __Ms. Pacman__.
 
 
-# Activity:
+## Activity:
 Don't be a balloon __full of this__... duke it out like you are a member of the __NC Hurricanes__.
 
 Extra points if you capture a video of the winning score.
