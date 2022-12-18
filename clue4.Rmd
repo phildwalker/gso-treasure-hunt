@@ -15,23 +15,23 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# Location = "__" + "___"
+# Location = "___" + "___"
 
 # Clue
 
-First word: The second part of a rhyming name that helps you remove pet waste
+First word: The second part of a rhyming name device that helps you remove pet waste.
 
-Second word: The second part of a seasonal holiday drink that is made with embryonic chickens
+Second word: The second part of a name for a seasonal holiday drink that is made with embryonic chickens (if that's your thing).
 
 
 
 # Activity
 
-step 1: Open Envelope.    
+Step 1: Open Envelope.    
 
-Step 2: Rules 'smules: Everyone knows the best part of shopping is haggling.... See if you can use this expired gift card.  
+Step 2: _Rules 'smules_: Everyone knows the best part of shopping is haggling.... See if you can use this expired gift card.  
 
-Step 3: Read your favorite children's book to your adventure partner (including #gnomeOnLoad)
+Step 3: Read your favorite children's book to your adventure partner (including #gnomeOnLoan).
 
 
 ## Move to Clue 5

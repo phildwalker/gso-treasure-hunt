@@ -17,12 +17,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Clue
 
-Memorial for an esteemed patron saint of this city. Known for his participation in a minor skirmish with those red coats in 1776
+Memorial for the esteemed patron saint of this city. Known for his participation in a minor skirmish with those pesky red coats starting in 1775.
 
 
 # Activity
 
-Every Travelling gnome needs a good hat. Recreate this person's hat and strike a pose.
+Every traveling gnome needs a good hat. Recreate this person's hat and strike a pose.
 
 
 ## Move to Clue 6

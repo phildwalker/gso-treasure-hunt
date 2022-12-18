@@ -14,20 +14,23 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Location = "__" + "__"
+## Location = "___" + "___"
 
 # Clue
 
-Part 1: Another name for one of miniature stature or the most famous Sebastian ever to grace the television screen.
+Part 1: Another name for one of __miniature__ stature or the most famous Sebastian ever to grace the television screen.
 
-Part 2: Don't _rush_ to join Kappa Tau unless you want to be one of these...
+<!-- https://www.youtube.com/watch?v=h-PUW6y4F6c -->
 
+Part 2: Don't __rush__ to join Kappa Tau unless you want to be one of these...
+
+<!-- https://www.youtube.com/watch?v=RdxyvyB2Uv0 -->
 
 # Activity
 
-Congrats you've succeeded in getting in 2-3 hours of light to moderate of activity and you've seen some of the fun activities that Greensboro has to offer.
+Congrats you've succeeded in getting in 2-4 hours of light to moderate physical activity, and you've participated in some of the fun activities that Greensboro has to offer.
 
-Now send the purveyors of this fun game 6 pictures of the gnome to show you've succeeded and enjoy a beer (or 3) on us (and eventually return gnome back to their gnome friends at casa de walker)
+Now send the purveyors of this fun treasure hunt picture proof of your time to show you've succeeded and enjoy a beer (or 3) on us (and eventually return Glenn back to their gnome friends at casa de Walker).
 
 
 # Wooo you win!

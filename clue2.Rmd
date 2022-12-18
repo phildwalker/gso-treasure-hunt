@@ -16,13 +16,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 # Clue:
-Biden's favorite form of transportation is made up of many of these, but we hear that the "ghost" version never caught up with wiley Ms. Pacman
+Biden's favorite form of transportation is made up of __many of these__, but we hear that the "ghost" version never caught up with wiley __Ms. Pacman__.
 
 
 # Activity:
-Don't be a balloon full of this... duke it out like you are a member of the NC Hurricanes.
+Don't be a balloon __full of this__... duke it out like you are a member of the __NC Hurricanes__.
 
-Extra points if you capture a video of the winning score
+Extra points if you capture a video of the winning score.
 
 ## Move to Clue 3
 password is the location and has 6 letters
