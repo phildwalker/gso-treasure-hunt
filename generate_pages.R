@@ -3,4 +3,11 @@
 library(fidelius)
 
 
-charm("test_1.Rmd", password = "pw1234!", hint = "A very bad password!")
+charm("test_1.Rmd", password = "pw1234", hint = "A very bad password!",
+      output = "index.html")
+
+
+charm("test_1.Rmd", output = "index.html")
+
+
+rmarkdown::render("test_1.Rmd", output_file = "index.html")
