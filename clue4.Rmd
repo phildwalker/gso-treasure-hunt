@@ -2,8 +2,8 @@
 title: "Location 4"
 output:
   fidelius::html_password_protected:
-    password: "pw"
-    hint: "IS, Activity, 2 words"
+    password: "lebauer"
+    hint: "LB, park, 2 words"
     output_format: 
       rmarkdown::html_document:
         toc: false
@@ -35,3 +35,4 @@ Step 3: Read your favorite children's book to your adventure partner (including 
 
 
 ## Move to Clue 5
+password is the location and has 11 letters

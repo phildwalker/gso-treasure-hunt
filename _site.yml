@@ -1,8 +1,8 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "You're A #NationalTreasure"
   left:
-    - text: "main landing"
+    - text: "Welcome"
       href: index.html
     - text: "Clue 1"
       href: clue1.html

@@ -2,7 +2,7 @@
 title: "Location 2"
 output:
   fidelius::html_password_protected:
-    password: "pw"
+    password: "elsewhere"
     hint: "E, 1 word"
     output_format: 
       rmarkdown::html_document:
@@ -25,3 +25,4 @@ Don't be a balloon full of this... duke it out like you are a member of the NC H
 Extra points if you capture a video of the winning score
 
 ## Move to Clue 3
+password is the location and has 6 letters

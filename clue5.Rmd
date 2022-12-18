@@ -2,7 +2,7 @@
 title: "Location 5"
 output:
   fidelius::html_password_protected:
-    password: "pw"
+    password: "scuppernong"
     hint: "SN, 1 word"
     output_format: 
       rmarkdown::html_document:
@@ -26,7 +26,6 @@ Every Travelling gnome needs a good hat. Recreate this person's hat and strike a
 
 
 ## Move to Clue 6
+password has no space and is the shortened name (9 letters)
 
-
-esteemed patron that gave the city it's name
 

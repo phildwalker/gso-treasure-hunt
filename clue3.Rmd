@@ -2,7 +2,7 @@
 title: "Location 3"
 output:
   fidelius::html_password_protected:
-    password: "pw"
+    password: "boxcar"
     hint: "BC, 1 word"
     output_format: 
       rmarkdown::html_document:
@@ -31,3 +31,4 @@ frameborder="0"></iframe>
 
 
 ## Move to Clue 4
+password is the location and has 7 letters

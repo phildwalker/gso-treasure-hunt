@@ -2,7 +2,7 @@
 title: "Location 6"
 output:
   fidelius::html_password_protected:
-    password: "pw"
+    password: "natgreene"
     hint: "NG, two words"
     output_format: 
       rmarkdown::html_document:
@@ -14,11 +14,20 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-minuture stature + bro
+## Location = "__" + "__"
 
-beverage reference
+# Clue
 
-drink, and return gnome back to their gnome friends and casa de walker
+Part 1: Another name for one of miniature stature or the most famous Sebastian ever to grace the television screen.
+
+Part 2: Don't _rush_ to join Kappa Tau unless you want to be one of these...
+
+
+# Activity
+
+Congrats you've succeeded in getting in 2-3 hours of light to moderate of activity and you've seen some of the fun activities that Greensboro has to offer.
+
+Now send the purveyors of this fun game 6 pictures of the gnome to show you've succeeded and enjoy a beer (or 3) on us (and eventually return gnome back to their gnome friends at casa de walker)
 
 
 # Wooo you win!

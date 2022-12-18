@@ -1,5 +1,5 @@
 ---
-title: "Greensboro Treasure Hut"
+title: "Greensboro Treasure Hunt"
 author: "#GnomeOnLoan"
 output: html_document
 toc: false
@@ -13,14 +13,14 @@ knitr::opts_chunk$set(echo = TRUE)
 Congrats you got an treasure map in a box! Woohoo!
 
 
-We've hidden clues and activites throughout downtown Greensboro for you to find (and refreshments to consume along the way, because hydration is key!)
+We've hidden clues and activities throughout downtown Greensboro for you to find (and refreshments to consume along the way, because hydration is key!)
 
 
-We've provided a #GnomeOnLoan from the Lauren collection because we all know that gnomes love adventures.
+We've provided a #GnomeOnLoan from the heralded Lauren collection because we all know that gnomes love adventures.
 
 
 
->> The password will be the location you were just at
+> The password for the next clue will be the location you are currently at.
 
 
 
