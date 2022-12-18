@@ -15,7 +15,11 @@ We hear if they lived in the same era that __Vincent Van Gogh__ and Macklemore w
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QK8mJJJvaes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/QK8mJJJvaes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/QK8mJJJvaes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
 
 ## Activity:
 Start your #gnomeonloan adventure by getting this handle going and take some silly pictures to help Glenn get in the spirit.
