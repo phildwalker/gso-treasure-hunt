@@ -4,7 +4,15 @@ navbar:
   left:
     - text: "main landing"
       href: index.html
-    - text: "first page"
-      href: page1.html
-    - text: "second page"
-      href: page2.html
+    - text: "Clue 1"
+      href: clue1.html
+    - text: "Clue 2"
+      href: clue2.html
+    - text: "Clue 3"
+      href: clue3.html
+    - text: "Clue 4"
+      href: clue4.html
+    - text: "Clue 5"
+      href: clue5.html
+    - text: "Clue 6"
+      href: clue6.html      

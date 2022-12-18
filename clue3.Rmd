@@ -1,0 +1,33 @@
+---
+title: "Location 3"
+output:
+  fidelius::html_password_protected:
+    password: "pw"
+    hint: "BC, 1 word"
+    output_format: 
+      rmarkdown::html_document:
+        toc: false
+      
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Clue:
+This outdoor apparel company shares a first name with the older brother from Family Matters and shares a last name with a place for place in Greensboro.
+
+
+# Activity: 
+Riddle me this batman: Could you recreate the following clip from the 2005 classic, "Just Friends"? Or else, we'll have to "Brand you suckster".
+
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+<iframe style="position:absolute; width:100%; height:100%;"
+src="https://memes.getyarn.io/yarn-clip/56b47158-3daf-42a1-ae38-229848da1c5a/embed?autoplay=false&responsive=true"
+frameborder="0"></iframe>
+</div>
+
+
+## Move to Clue 4

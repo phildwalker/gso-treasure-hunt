@@ -1,0 +1,32 @@
+---
+title: "Location 5"
+output:
+  fidelius::html_password_protected:
+    password: "pw"
+    hint: "SN, 1 word"
+    output_format: 
+      rmarkdown::html_document:
+        toc: false
+      
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Clue
+
+Memorial for an esteemed patron saint of this city. Known for his participation in a minor skirmish with those red coats in 1776
+
+
+# Activity
+
+Every Travelling gnome needs a good hat. Recreate this person's hat and strike a pose.
+
+
+## Move to Clue 6
+
+
+esteemed patron that gave the city it's name
+

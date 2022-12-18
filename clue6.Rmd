@@ -1,9 +1,9 @@
 ---
-title: "Page 2"
+title: "Location 6"
 output:
   fidelius::html_password_protected:
     password: "pw"
-    hint: "pw"
+    hint: "NG, two words"
     output_format: 
       rmarkdown::html_document:
         toc: false
@@ -14,6 +14,11 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# This is a sample header
+minuture stature + bro
 
-this is a place where we can give a new clue for something else
+beverage reference
+
+drink, and return gnome back to their gnome friends and casa de walker
+
+
+# Wooo you win!

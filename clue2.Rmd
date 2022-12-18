@@ -1,0 +1,27 @@
+---
+title: "Location 2"
+output:
+  fidelius::html_password_protected:
+    password: "pw"
+    hint: "E, 1 word"
+    output_format: 
+      rmarkdown::html_document:
+        toc: false
+      
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Clue:
+Biden's favorite form of transportation is made up of many of these, but we hear that the "ghost" version never caught up with wiley Ms. Pacman
+
+
+# Activity:
+Don't be a balloon full of this... duke it out like you are a member of the NC Hurricanes.
+
+Extra points if you capture a video of the winning score
+
+## Move to Clue 3

@@ -1,0 +1,30 @@
+---
+title: "Location 1"
+output: rmarkdown::html_document
+toc: false
+      
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Clue: 
+We hear if they lived in the same era that Vincent Van Gogh and Macklemore would have written this song together at __this collaboration space.__
+
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/QK8mJJJvaes?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+```{r}
+# vembedr::embed_youtube("QK8mJJJvaes")
+
+# QK8mJJJvaes
+```
+
+
+## Activity:
+Start your #gnomeonloan adventure by getting this handle going 
+
+## Move to Clue 2
