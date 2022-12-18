@@ -11,21 +11,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## Clue: 
-We hear if they lived in the same era that Vincent Van Gogh and Macklemore would have written this song together at __this collaboration space.__
+We hear if they lived in the same era that __Vincent Van Gogh__ and Macklemore would have written __this__ song together at this __collaboration space.__
 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/QK8mJJJvaes?rel=0" frameborder="0" allowfullscreen></iframe>
 
-
-```{r}
-# vembedr::embed_youtube("QK8mJJJvaes")
-
-# QK8mJJJvaes
-```
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QK8mJJJvaes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Activity:
-Start your #gnomeonloan adventure by getting this handle going 
+Start your #gnomeonloan adventure by getting this handle going and take some silly pictures to help Glenn get in the spirit.
 
-## Move to Clue 2
+## Move to Clue 2!
 password is the location and has 9 letters
