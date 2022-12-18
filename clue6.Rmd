@@ -11,7 +11,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = F)
 ```
 
 ## Clue
@@ -22,14 +22,14 @@ Part 1: Another name for one of __miniature__ stature or the most famous Sebasti
 
 <!-- https://www.youtube.com/watch?v=h-PUW6y4F6c -->
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
-<iframe style="position:absolute; width:100%; height:100%;"
-src="https://www.youtube.com/embed/nJbzaucN1gg"
-frameborder="0"></iframe>
-</div>
+<!-- <div style="position: relative; width: 100%; padding-bottom: 56.25%;"> -->
+<!-- <iframe style="position:absolute; width:100%; height:100%;" -->
+<!-- src="https://www.youtube.com/embed/nJbzaucN1gg" -->
+<!-- frameborder="0"></iframe> -->
+<!-- </div> -->
 
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/nJbzaucN1gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nJbzaucN1gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Part 2: Don't __rush__ to join Kappa Tau unless you want to be one of these...
 
