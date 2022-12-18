@@ -13,4 +13,4 @@ library(fidelius)
 rmarkdown::render_site()
 
 
-rmarkdown::render("test_1.Rmd", output_file = "index.html")
+# rmarkdown::render("test_1.Rmd", output_file = "index.html")

@@ -3,6 +3,7 @@ title: "Page 1"
 output:
   fidelius::html_password_protected:
     password: "pw1"
+    hint: "password is pw1"
     output_format: 
       rmarkdown::html_document:
         toc: false

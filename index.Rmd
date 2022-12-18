@@ -1,11 +1,7 @@
 ---
 title: "Home Page"
-output:
-  fidelius::html_password_protected:
-    password: "pw"
-    output_format: 
-      rmarkdown::html_document:
-        toc: false
+output: html_document
+toc: false
       
 ---
 
