@@ -1,6 +1,6 @@
 ---
 title: "Location 1"
-output: rmarkdown::html_document
+output: html_document
 toc: false
       
 ---
